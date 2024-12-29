@@ -1,3 +1,4 @@
+
 class Skills{
     constructor(id,name="not-set",rating=0){
         this.id = id;
